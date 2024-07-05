@@ -2,7 +2,7 @@
 
 Ardent web developer proficient in HTML, CSS, and JavaScript, with hands-on experience in React. Skilled in data analysis with Python and Pandas. Avid learner and competitive programmer committed to continuous improvement and innovation.
 
-![Profile views](https://img.shields.io/github/views/Arya1754/Arya1754)
+
 
 
 ## 🛠 Languages and Tools
